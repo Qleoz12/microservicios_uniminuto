@@ -1,0 +1,82 @@
+services:
+  backendgw:
+    build:
+      context: E:\U\proyecto microservicios\Bank-master
+      dockerfile: src/gateways/BackendGateway/Dockerfile
+    depends_on:
+      catalog:
+        condition: service_started
+      identity:
+        condition: service_started
+      mongo:
+        condition: service_started
+    image: backendgw
+    ports:
+    - published: 44359
+      target: 80
+  catalog:
+    build:
+      context: E:\U\proyecto microservicios\Bank-master
+      dockerfile: src/microservices/CatalogMicroservice/Dockerfile
+    depends_on:
+      mongo:
+        condition: service_started
+    image: catalog
+    ports:
+    - published: 44326
+      target: 80
+  core:
+    build:
+      context: E:\U\proyecto microservicios\Bank-master
+      dockerfile: src/microservices/CoreMicroservice/Dockerfile
+    depends_on:
+      mongo:
+        condition: service_started
+    image: core
+    ports:
+    - published: 44399
+      target: 80
+  customer:
+    build:
+      context: E:\U\proyecto microservicios\Bank-master
+      dockerfile: src/microservices/CustomersMicroservice/Dockerfile
+    depends_on:
+      mongo:
+        condition: service_started
+    image: customer
+    ports:
+    - published: 44398
+      target: 80
+  frontendgw:
+    build:
+      context: E:\U\proyecto microservicios\Bank-master
+      dockerfile: src/gateways/FrontendGateway/Dockerfile
+    depends_on:
+      catalog:
+        condition: service_started
+      identity:
+        condition: service_started
+      mongo:
+        condition: service_started
+    image: frontendgw
+    ports:
+    - published: 44300
+      target: 80
+  identity:
+    build:
+      context: E:\U\proyecto microservicios\Bank-master
+      dockerfile: src/microservices/IdentityMicroservice/Dockerfile
+    depends_on:
+      mongo:
+        condition: service_started
+    image: identity
+    ports:
+    - published: 44397
+      target: 80
+  mongo:
+    container_name: store.mongo
+    image: mongo
+    ports:
+    - published: 27017
+      target: 27017
+version: '3.4'

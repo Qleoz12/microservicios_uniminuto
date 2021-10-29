@@ -1,0 +1,304 @@
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\appsettings.Production.json
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\CatalogMicroservice.exe
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\CatalogMicroservice.deps.json
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\CatalogMicroservice.runtimeconfig.json
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\CatalogMicroservice.runtimeconfig.dev.json
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\CatalogMicroservice.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\CatalogMicroservice.pdb
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.MongoDb.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.Client.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.Core.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.InMemory.Storage.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\KubernetesClient.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Middleware.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Middleware.pdb
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\CatalogMicroservice.csprojAssemblyReference.cache
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\CatalogMicroservice.AssemblyInfoInputs.cache
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\CatalogMicroservice.AssemblyInfo.cs
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\CatalogMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\CatalogMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\CatalogMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\CatalogMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\CatalogMicroservice.csproj.CopyComplete
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\CatalogMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\CatalogMicroservice.StaticWebAssets.xml
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\CatalogMicroservice.dll
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\CatalogMicroservice.pdb
+C:\Users\pandr\Downloads\store\store\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\CatalogMicroservice.genruntimeconfig.cache
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\appsettings.Production.json
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\CatalogMicroservice.exe
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\CatalogMicroservice.deps.json
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\CatalogMicroservice.runtimeconfig.json
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\CatalogMicroservice.runtimeconfig.dev.json
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\CatalogMicroservice.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\CatalogMicroservice.pdb
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.MongoDb.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.Client.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.Core.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.InMemory.Storage.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\KubernetesClient.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Middleware.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Middleware.pdb
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\CatalogMicroservice.csprojAssemblyReference.cache
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\CatalogMicroservice.AssemblyInfoInputs.cache
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\CatalogMicroservice.AssemblyInfo.cs
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\CatalogMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\CatalogMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\CatalogMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\CatalogMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\CatalogMicroservice.csproj.CopyComplete
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\CatalogMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\CatalogMicroservice.StaticWebAssets.xml
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\CatalogMicroservice.dll
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\CatalogMicroservice.pdb
+C:\Users\pandr\source\repos\Bank\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\CatalogMicroservice.genruntimeconfig.cache
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\appsettings.Production.json
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\CatalogMicroservice.exe
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\CatalogMicroservice.deps.json
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\CatalogMicroservice.runtimeconfig.json
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\CatalogMicroservice.runtimeconfig.dev.json
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\CatalogMicroservice.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\CatalogMicroservice.pdb
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.MongoDb.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.Client.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.Core.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.InMemory.Storage.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\DnsClient.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\KubernetesClient.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\SharpCompress.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Middleware.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\bin\Debug\netcoreapp3.1\Middleware.pdb
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\CatalogMicroservice.csproj.AssemblyReference.cache
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\CatalogMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\CatalogMicroservice.AssemblyInfoInputs.cache
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\CatalogMicroservice.AssemblyInfo.cs
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\CatalogMicroservice.csproj.CoreCompileInputs.cache
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\CatalogMicroservice.MvcApplicationPartsAssemblyInfo.cs
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\CatalogMicroservice.MvcApplicationPartsAssemblyInfo.cache
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\CatalogMicroservice.StaticWebAssets.Manifest.cache
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\CatalogMicroservice.StaticWebAssets.xml
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\CatalogMicroservice.styles.css
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\CatalogMicroservice.RazorTargetAssemblyInfo.cache
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\CatalogMicroservice.csproj.CopyComplete
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\CatalogMicroservice.dll
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\CatalogMicroservice.pdb
+E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\CatalogMicroservice.genruntimeconfig.cache

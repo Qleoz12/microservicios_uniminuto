@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0zylXWK2bKYEUBoI0JJOpwZwaOK1wafiHo2cLxuPVbaDLXxMzO/A6hrv+22ZXOV3eoN19FRg7B80ExPlNrphsA==",
+  "success": true,
+  "projectFilePath": "E:\\U\\proyecto microservicios\\Bank-master\\src\\uis\\Frontend\\Frontend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\k.key B\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,43 @@
+C:\Users\pandr\Downloads\store\store\src\uis\Backend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\pandr\Downloads\store\store\src\uis\Backend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\pandr\Downloads\store\store\src\uis\Backend\bin\Debug\netcoreapp3.1\appsettings.Production.json
+C:\Users\pandr\Downloads\store\store\src\uis\Backend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\pandr\Downloads\store\store\src\uis\Backend\bin\Debug\netcoreapp3.1\Backend.exe
+C:\Users\pandr\Downloads\store\store\src\uis\Backend\bin\Debug\netcoreapp3.1\Backend.deps.json
+C:\Users\pandr\Downloads\store\store\src\uis\Backend\bin\Debug\netcoreapp3.1\Backend.runtimeconfig.json
+C:\Users\pandr\Downloads\store\store\src\uis\Backend\bin\Debug\netcoreapp3.1\Backend.runtimeconfig.dev.json
+C:\Users\pandr\Downloads\store\store\src\uis\Backend\bin\Debug\netcoreapp3.1\Backend.dll
+C:\Users\pandr\Downloads\store\store\src\uis\Backend\bin\Debug\netcoreapp3.1\Backend.pdb
+C:\Users\pandr\Downloads\store\store\src\uis\Backend\obj\Debug\netcoreapp3.1\Backend.csprojAssemblyReference.cache
+C:\Users\pandr\Downloads\store\store\src\uis\Backend\obj\Debug\netcoreapp3.1\Backend.AssemblyInfoInputs.cache
+C:\Users\pandr\Downloads\store\store\src\uis\Backend\obj\Debug\netcoreapp3.1\Backend.AssemblyInfo.cs
+C:\Users\pandr\Downloads\store\store\src\uis\Backend\obj\Debug\netcoreapp3.1\Backend.csproj.CoreCompileInputs.cache
+C:\Users\pandr\Downloads\store\store\src\uis\Backend\obj\Debug\netcoreapp3.1\Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pandr\Downloads\store\store\src\uis\Backend\obj\Debug\netcoreapp3.1\Backend.RazorTargetAssemblyInfo.cache
+C:\Users\pandr\Downloads\store\store\src\uis\Backend\obj\Debug\netcoreapp3.1\staticwebassets\Backend.StaticWebAssets.Manifest.cache
+C:\Users\pandr\Downloads\store\store\src\uis\Backend\obj\Debug\netcoreapp3.1\staticwebassets\Backend.StaticWebAssets.xml
+C:\Users\pandr\Downloads\store\store\src\uis\Backend\obj\Debug\netcoreapp3.1\Backend.dll
+C:\Users\pandr\Downloads\store\store\src\uis\Backend\obj\Debug\netcoreapp3.1\Backend.pdb
+C:\Users\pandr\Downloads\store\store\src\uis\Backend\obj\Debug\netcoreapp3.1\Backend.genruntimeconfig.cache
+E:\U\proyecto microservicios\Bank-master\src\uis\Backend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\U\proyecto microservicios\Bank-master\src\uis\Backend\bin\Debug\netcoreapp3.1\appsettings.json
+E:\U\proyecto microservicios\Bank-master\src\uis\Backend\bin\Debug\netcoreapp3.1\appsettings.Production.json
+E:\U\proyecto microservicios\Bank-master\src\uis\Backend\bin\Debug\netcoreapp3.1\Backend.exe
+E:\U\proyecto microservicios\Bank-master\src\uis\Backend\bin\Debug\netcoreapp3.1\Backend.deps.json
+E:\U\proyecto microservicios\Bank-master\src\uis\Backend\bin\Debug\netcoreapp3.1\Backend.runtimeconfig.json
+E:\U\proyecto microservicios\Bank-master\src\uis\Backend\bin\Debug\netcoreapp3.1\Backend.runtimeconfig.dev.json
+E:\U\proyecto microservicios\Bank-master\src\uis\Backend\bin\Debug\netcoreapp3.1\Backend.dll
+E:\U\proyecto microservicios\Bank-master\src\uis\Backend\bin\Debug\netcoreapp3.1\Backend.pdb
+E:\U\proyecto microservicios\Bank-master\src\uis\Backend\obj\Debug\netcoreapp3.1\Backend.GeneratedMSBuildEditorConfig.editorconfig
+E:\U\proyecto microservicios\Bank-master\src\uis\Backend\obj\Debug\netcoreapp3.1\Backend.AssemblyInfoInputs.cache
+E:\U\proyecto microservicios\Bank-master\src\uis\Backend\obj\Debug\netcoreapp3.1\Backend.AssemblyInfo.cs
+E:\U\proyecto microservicios\Bank-master\src\uis\Backend\obj\Debug\netcoreapp3.1\Backend.csproj.CoreCompileInputs.cache
+E:\U\proyecto microservicios\Bank-master\src\uis\Backend\obj\Debug\netcoreapp3.1\Backend.MvcApplicationPartsAssemblyInfo.cache
+E:\U\proyecto microservicios\Bank-master\src\uis\Backend\obj\Debug\netcoreapp3.1\staticwebassets\Backend.StaticWebAssets.Manifest.cache
+E:\U\proyecto microservicios\Bank-master\src\uis\Backend\obj\Debug\netcoreapp3.1\staticwebassets\Backend.StaticWebAssets.xml
+E:\U\proyecto microservicios\Bank-master\src\uis\Backend\obj\Debug\netcoreapp3.1\scopedcss\bundle\Backend.styles.css
+E:\U\proyecto microservicios\Bank-master\src\uis\Backend\obj\Debug\netcoreapp3.1\Backend.RazorTargetAssemblyInfo.cache
+E:\U\proyecto microservicios\Bank-master\src\uis\Backend\obj\Debug\netcoreapp3.1\Backend.dll
+E:\U\proyecto microservicios\Bank-master\src\uis\Backend\obj\Debug\netcoreapp3.1\Backend.pdb
+E:\U\proyecto microservicios\Bank-master\src\uis\Backend\obj\Debug\netcoreapp3.1\Backend.genruntimeconfig.cache
+E:\U\proyecto microservicios\Bank-master\src\uis\Backend\obj\Debug\netcoreapp3.1\Backend.csproj.AssemblyReference.cache

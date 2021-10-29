@@ -1,0 +1,31 @@
+version: "3.4"
+
+services:
+  mongo:
+    image: mongo
+    ports:
+       - "27017:27017"
+
+  catalog:
+    ports:
+      - "44326:80"
+
+  customer:
+    ports:
+      - "44398:80"
+
+  core:
+    ports:
+      - "44399:80"
+
+  identity:
+    ports:
+      - "44397:80"
+
+  frontendgw:
+    ports:
+      - "44300:80"
+
+  backendgw:
+    ports:
+      - "44359:80"

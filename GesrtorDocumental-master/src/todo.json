@@ -1,0 +1,27 @@
+{
+    "todo":[
+        {
+            "title":"Recibo de Luz",
+            "responsible":"Contaduria",
+            "description":"Recibo de luz para mes de Junio",
+            "priority":"Alta",
+            "State":"En Proceso"
+        },
+        {
+            "title":"Aire acondicionado",
+            "responsible":"Contaduria",
+            "description":"mantenimiento de aire acondicionado",
+            "priority":"Alta",
+            "State":"Cerrada"
+        },
+        {
+            "title":"Pago Proveedor MYT",
+            "responsible":"Contaduria",
+            "description":"Recibo de Pago proveedor MYT",
+            "priority":"Alta",
+            "State":"Abierto"
+        }
+    ]
+
+    
+}

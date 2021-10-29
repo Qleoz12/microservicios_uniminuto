@@ -1,0 +1,169 @@
+version: '3.4'
+
+services:
+  backendgw:
+    image: backendgw:dev
+    container_name: BackendGateway
+    build:
+      target: base
+      labels:
+        com.microsoft.created-by: "visual-studio"
+        com.microsoft.visual-studio.project-name: "BackendGateway"
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_backendgw$
+    volumes:
+      - E:\U\proyecto microservicios\Bank-master\src\gateways\BackendGateway:/app
+      - E:\U\proyecto microservicios\Bank-master:/src
+      - C:\Users\k.key B\vsdbg\vs2017u5:/remote_debugger:rw
+#$nuget_volume_mapping_backendgw$
+      - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
+
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_backendgw$ \"/app/bin/Debug/netcoreapp3.1/BackendGateway.dll\""
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
+    tty: true
+  catalog:
+    image: catalog:dev
+    container_name: CatalogMicroservice
+    build:
+      target: base
+      labels:
+        com.microsoft.created-by: "visual-studio"
+        com.microsoft.visual-studio.project-name: "CatalogMicroservice"
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_catalog$
+    volumes:
+      - E:\U\proyecto microservicios\Bank-master\src\microservices\CatalogMicroservice:/app
+      - E:\U\proyecto microservicios\Bank-master:/src
+      - C:\Users\k.key B\vsdbg\vs2017u5:/remote_debugger:rw
+#$nuget_volume_mapping_catalog$
+      - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
+
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_catalog$ \"/app/bin/Debug/netcoreapp3.1/CatalogMicroservice.dll\""
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
+    tty: true
+
+  core:
+    image: core:dev
+    container_name: CoreMicroservice
+    build:
+      target: base
+      labels:
+        com.microsoft.created-by: "visual-studio"
+        com.microsoft.visual-studio.project-name: "CoreMicroservice"
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_core$
+    volumes:
+      - E:\U\proyecto microservicios\Bank-master\src\microservices\CoreMicroservice:/app
+      - E:\U\proyecto microservicios\Bank-master:/src
+      - C:\Users\k.key B\vsdbg\vs2017u5:/remote_debugger:rw
+#$nuget_volume_mapping_core$
+      - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
+
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_core$ \"/app/bin/Debug/netcoreapp3.1/CoreMicroservice.dll\""
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
+    tty: true
+
+  customer:
+    image: customer:dev
+    container_name: CustomersMicroservice
+    build:
+      target: base
+      labels:
+        com.microsoft.created-by: "visual-studio"
+        com.microsoft.visual-studio.project-name: "CustomersMicroservice"
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_customer$
+    volumes:
+      - E:\U\proyecto microservicios\Bank-master\src\microservices\CustomersMicroservice:/app
+      - E:\U\proyecto microservicios\Bank-master:/src
+      - C:\Users\k.key B\vsdbg\vs2017u5:/remote_debugger:rw
+#$nuget_volume_mapping_customer$
+      - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
+
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_customer$ \"/app/bin/Debug/netcoreapp3.1/CustomersMicroservice.dll\""
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
+    tty: true
+
+  frontendgw:
+    image: frontendgw:dev
+    container_name: FrontendGateway
+    build:
+      target: base
+      labels:
+        com.microsoft.created-by: "visual-studio"
+        com.microsoft.visual-studio.project-name: "FrontendGateway"
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_frontendgw$
+    volumes:
+      - E:\U\proyecto microservicios\Bank-master\src\gateways\FrontendGateway:/app
+      - E:\U\proyecto microservicios\Bank-master:/src
+      - C:\Users\k.key B\vsdbg\vs2017u5:/remote_debugger:rw
+#$nuget_volume_mapping_frontendgw$
+      - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
+
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_frontendgw$ \"/app/bin/Debug/netcoreapp3.1/FrontendGateway.dll\""
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
+    tty: true
+
+  identity:
+    image: identity:dev
+    container_name: IdentityMicroservice
+    build:
+      target: base
+      labels:
+        com.microsoft.created-by: "visual-studio"
+        com.microsoft.visual-studio.project-name: "IdentityMicroservice"
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_identity$
+    volumes:
+      - E:\U\proyecto microservicios\Bank-master\src\microservices\IdentityMicroservice:/app
+      - E:\U\proyecto microservicios\Bank-master:/src
+      - C:\Users\k.key B\vsdbg\vs2017u5:/remote_debugger:rw
+#$nuget_volume_mapping_identity$
+      - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
+
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_identity$ \"/app/bin/Debug/netcoreapp3.1/IdentityMicroservice.dll\""
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
+    tty: true

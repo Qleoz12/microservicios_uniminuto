@@ -1,0 +1,58 @@
+version: "3.4"
+
+services:
+  mongo:
+    image: mongo
+    container_name: store.mongo
+
+  catalog:
+    image: ${DOCKER_REGISTRY-}catalog
+    build:
+      context: .
+      dockerfile: src/microservices/CatalogMicroservice/Dockerfile
+    depends_on:
+      - mongo
+
+  customer:
+    image: ${DOCKER_REGISTRY-}customer
+    build:
+      context: .
+      dockerfile: src/microservices/CustomersMicroservice/Dockerfile
+    depends_on:
+      - mongo
+
+  core:
+    image: ${DOCKER_REGISTRY-}core
+    build:
+      context: .
+      dockerfile: src/microservices/CoreMicroservice/Dockerfile
+    depends_on:
+      - mongo
+
+  identity:
+    image: ${DOCKER_REGISTRY-}identity
+    build:
+      context: .
+      dockerfile: src/microservices/IdentityMicroservice/Dockerfile
+    depends_on:
+      - mongo
+
+  frontendgw:
+    image: ${DOCKER_REGISTRY-}frontendgw
+    build:
+      context: .
+      dockerfile: src/gateways/FrontendGateway/Dockerfile
+    depends_on:
+      - mongo
+      - catalog
+      - identity
+
+  backendgw:
+    image: ${DOCKER_REGISTRY-}backendgw
+    build:
+      context: .
+      dockerfile: src/gateways/BackendGateway/Dockerfile
+    depends_on:
+      - mongo
+      - catalog
+      - identity

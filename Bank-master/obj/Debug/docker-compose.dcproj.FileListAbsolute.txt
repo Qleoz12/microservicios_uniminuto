@@ -1,0 +1,278 @@
+C:\Users\pandr\Downloads\store\store\bin\Debug\appsettings.Development.json
+C:\Users\pandr\Downloads\store\store\bin\Debug\appsettings.json
+C:\Users\pandr\Downloads\store\store\bin\Debug\appsettings.Production.json
+C:\Users\pandr\Downloads\store\store\bin\Debug\Properties\launchSettings.json
+C:\Users\pandr\Downloads\store\store\bin\Debug\CatalogMicroservice.exe
+C:\Users\pandr\Downloads\store\store\bin\Debug\IdentityMicroservice.exe
+C:\Users\pandr\Downloads\store\store\bin\Debug\CartMicroservice.exe
+C:\Users\pandr\Downloads\store\store\bin\Debug\configuration.Development.json
+C:\Users\pandr\Downloads\store\store\bin\Debug\configuration.Production.json
+C:\Users\pandr\Downloads\store\store\bin\Debug\BackendGateway.exe
+C:\Users\pandr\Downloads\store\store\bin\Debug\FrontendGateway.exe
+C:\Users\pandr\Downloads\store\store\bin\Debug\BackendGateway.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\CartMicroservice.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\CatalogMicroservice.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\FrontendGateway.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\IdentityMicroservice.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\MongoDB.Driver.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Middleware.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\HealthChecks.MongoDb.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\HealthChecks.UI.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\HealthChecks.UI.Core.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\HealthChecks.UI.InMemory.Storage.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\HealthChecks.UI.Client.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Microsoft.OpenApi.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Serilog.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Ocelot.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Serilog.AspNetCore.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Serilog.Sinks.Console.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\MongoDB.Bson.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Microsoft.Extensions.Http.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\KubernetesClient.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\DnsClient.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\SharpCompress.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\FluentValidation.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Serilog.Extensions.Logging.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Serilog.Extensions.Hosting.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\YamlDotNet.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\pandr\Downloads\store\store\bin\Debug\CatalogMicroservice.pdb
+C:\Users\pandr\Downloads\store\store\bin\Debug\IdentityMicroservice.pdb
+C:\Users\pandr\Downloads\store\store\bin\Debug\CartMicroservice.pdb
+C:\Users\pandr\Downloads\store\store\bin\Debug\BackendGateway.pdb
+C:\Users\pandr\Downloads\store\store\bin\Debug\FrontendGateway.pdb
+C:\Users\pandr\Downloads\store\store\bin\Debug\Middleware.pdb
+C:\Users\pandr\Downloads\store\store\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\pandr\Downloads\store\store\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\pandr\Downloads\store\store\obj\Debug\docker-compose.dcproj.CopyComplete
+C:\Users\pandr\source\repos\Bank\bin\Debug\appsettings.Development.json
+C:\Users\pandr\source\repos\Bank\bin\Debug\appsettings.json
+C:\Users\pandr\source\repos\Bank\bin\Debug\appsettings.Production.json
+C:\Users\pandr\source\repos\Bank\bin\Debug\Properties\launchSettings.json
+C:\Users\pandr\source\repos\Bank\bin\Debug\CatalogMicroservice.exe
+C:\Users\pandr\source\repos\Bank\bin\Debug\IdentityMicroservice.exe
+C:\Users\pandr\source\repos\Bank\bin\Debug\configuration.Development.json
+C:\Users\pandr\source\repos\Bank\bin\Debug\configuration.Production.json
+C:\Users\pandr\source\repos\Bank\bin\Debug\BackendGateway.exe
+C:\Users\pandr\source\repos\Bank\bin\Debug\FrontendGateway.exe
+C:\Users\pandr\source\repos\Bank\bin\Debug\CustomersMicroservice.exe
+C:\Users\pandr\source\repos\Bank\bin\Debug\CoreMicroservice.exe
+C:\Users\pandr\source\repos\Bank\bin\Debug\BackendGateway.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\CatalogMicroservice.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\CoreMicroservice.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\CustomersMicroservice.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\FrontendGateway.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\IdentityMicroservice.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\MongoDB.Driver.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Middleware.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\HealthChecks.MongoDb.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\HealthChecks.UI.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\HealthChecks.UI.Core.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\HealthChecks.UI.InMemory.Storage.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\HealthChecks.UI.Client.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Microsoft.OpenApi.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Serilog.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Ocelot.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Serilog.AspNetCore.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Serilog.Sinks.Console.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\MongoDB.Bson.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Microsoft.Extensions.Http.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\KubernetesClient.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\DnsClient.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\SharpCompress.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\FluentValidation.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Serilog.Extensions.Logging.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Serilog.Extensions.Hosting.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\YamlDotNet.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\pandr\source\repos\Bank\bin\Debug\CatalogMicroservice.pdb
+C:\Users\pandr\source\repos\Bank\bin\Debug\IdentityMicroservice.pdb
+C:\Users\pandr\source\repos\Bank\bin\Debug\BackendGateway.pdb
+C:\Users\pandr\source\repos\Bank\bin\Debug\FrontendGateway.pdb
+C:\Users\pandr\source\repos\Bank\bin\Debug\CustomersMicroservice.pdb
+C:\Users\pandr\source\repos\Bank\bin\Debug\CoreMicroservice.pdb
+C:\Users\pandr\source\repos\Bank\bin\Debug\Middleware.pdb
+C:\Users\pandr\source\repos\Bank\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\pandr\source\repos\Bank\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\pandr\source\repos\Bank\obj\Debug\docker-compose.dcproj.CopyComplete
+E:\U\proyecto microservicios\Bank-master\bin\Debug\BackendGateway.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\CatalogMicroservice.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\CoreMicroservice.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\CustomersMicroservice.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\FrontendGateway.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\IdentityMicroservice.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\MongoDB.Driver.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Middleware.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\HealthChecks.MongoDb.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\HealthChecks.UI.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\HealthChecks.UI.Core.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\HealthChecks.UI.InMemory.Storage.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\HealthChecks.UI.Client.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\MongoDB.Driver.Core.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Microsoft.OpenApi.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Serilog.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Ocelot.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Serilog.AspNetCore.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Serilog.Sinks.Console.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Microsoft.Extensions.Options.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\MongoDB.Bson.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\MongoDB.Libmongocrypt.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Microsoft.Extensions.Http.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Newtonsoft.Json.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\KubernetesClient.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\DnsClient.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\SharpCompress.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\FluentValidation.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Serilog.Extensions.Logging.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Serilog.Extensions.Hosting.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\BouncyCastle.Crypto.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\YamlDotNet.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Newtonsoft.Json.Bson.dll
+E:\U\proyecto microservicios\Bank-master\bin\Debug\CatalogMicroservice.pdb
+E:\U\proyecto microservicios\Bank-master\bin\Debug\IdentityMicroservice.pdb
+E:\U\proyecto microservicios\Bank-master\bin\Debug\BackendGateway.pdb
+E:\U\proyecto microservicios\Bank-master\bin\Debug\FrontendGateway.pdb
+E:\U\proyecto microservicios\Bank-master\bin\Debug\CustomersMicroservice.pdb
+E:\U\proyecto microservicios\Bank-master\bin\Debug\CoreMicroservice.pdb
+E:\U\proyecto microservicios\Bank-master\bin\Debug\Middleware.pdb
+E:\U\proyecto microservicios\Bank-master\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+E:\U\proyecto microservicios\Bank-master\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+E:\U\proyecto microservicios\Bank-master\obj\Debug\docker-compose.dcproj.CopyComplete
+E:\U\proyecto microservicios\Bank-master\bin\Debug\appsettings.Development.json
+E:\U\proyecto microservicios\Bank-master\bin\Debug\appsettings.json
+E:\U\proyecto microservicios\Bank-master\bin\Debug\appsettings.Production.json
+E:\U\proyecto microservicios\Bank-master\bin\Debug\configuration.Development.json
+E:\U\proyecto microservicios\Bank-master\bin\Debug\configuration.Production.json
+E:\U\proyecto microservicios\Bank-master\bin\Debug\CatalogMicroservice.deps.json
+E:\U\proyecto microservicios\Bank-master\bin\Debug\CatalogMicroservice.runtimeconfig.json
+E:\U\proyecto microservicios\Bank-master\bin\Debug\CatalogMicroservice.runtimeconfig.dev.json
+E:\U\proyecto microservicios\Bank-master\bin\Debug\CatalogMicroservice.exe
+E:\U\proyecto microservicios\Bank-master\bin\Debug\IdentityMicroservice.deps.json
+E:\U\proyecto microservicios\Bank-master\bin\Debug\IdentityMicroservice.runtimeconfig.json
+E:\U\proyecto microservicios\Bank-master\bin\Debug\IdentityMicroservice.runtimeconfig.dev.json
+E:\U\proyecto microservicios\Bank-master\bin\Debug\IdentityMicroservice.exe
+E:\U\proyecto microservicios\Bank-master\bin\Debug\BackendGateway.deps.json
+E:\U\proyecto microservicios\Bank-master\bin\Debug\BackendGateway.runtimeconfig.json
+E:\U\proyecto microservicios\Bank-master\bin\Debug\BackendGateway.runtimeconfig.dev.json
+E:\U\proyecto microservicios\Bank-master\bin\Debug\BackendGateway.exe
+E:\U\proyecto microservicios\Bank-master\bin\Debug\FrontendGateway.deps.json
+E:\U\proyecto microservicios\Bank-master\bin\Debug\FrontendGateway.runtimeconfig.json
+E:\U\proyecto microservicios\Bank-master\bin\Debug\FrontendGateway.runtimeconfig.dev.json
+E:\U\proyecto microservicios\Bank-master\bin\Debug\FrontendGateway.exe
+E:\U\proyecto microservicios\Bank-master\bin\Debug\CustomersMicroservice.deps.json
+E:\U\proyecto microservicios\Bank-master\bin\Debug\CustomersMicroservice.runtimeconfig.json
+E:\U\proyecto microservicios\Bank-master\bin\Debug\CustomersMicroservice.runtimeconfig.dev.json
+E:\U\proyecto microservicios\Bank-master\bin\Debug\CustomersMicroservice.exe
+E:\U\proyecto microservicios\Bank-master\bin\Debug\CoreMicroservice.deps.json
+E:\U\proyecto microservicios\Bank-master\bin\Debug\CoreMicroservice.runtimeconfig.json
+E:\U\proyecto microservicios\Bank-master\bin\Debug\CoreMicroservice.runtimeconfig.dev.json
+E:\U\proyecto microservicios\Bank-master\bin\Debug\CoreMicroservice.exe
